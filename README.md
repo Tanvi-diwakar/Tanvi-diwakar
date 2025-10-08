@@ -3,7 +3,7 @@
 
 # 👋 Hello, I'm Tanvi Diwakar
 
-### **Machine Learning Trainer | Full-Stack Developer | Hackathon Specialist**
+### **Machine Learning Trainer | Frontend Developer | Hackathon and Startup Experienced**
 Building **AI solutions** with **real-world impact** 🌟
 
 [![Email](https://img.shields.io/badge/📫_Contact_Me-tanvidiwakar04@gmail.com-8B4513?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanvidiwakar04@gmail.com)
@@ -82,13 +82,15 @@ I'm passionate about creating **technology solutions** that make a difference. W
 <div align="center">
 
 <!-- GitHub Stats Cards -->
-<a href="https://github.com/Tanvi-diwakar">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tanvi-diwakar&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="Tanvi's GitHub Stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanvi-diwakar&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
-</a>
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tanvi-diwakar&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="Tanvi's GitHub Stats"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanvi-diwakar&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
+
+<br/>
 
 <!-- GitHub Streak Stats -->
 [![GitHub Streak](https://streak-stats.demolab.com/?user=Tanvi-diwakar&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+<br/>
 
 <!-- GitHub Trophy -->
 [![trophy](https://github-profile-trophy.vercel.app/?username=Tanvi-diwakar&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
@@ -149,10 +151,10 @@ I'm passionate about creating **technology solutions** that make a difference. W
 <div align="center">
 
 ### 📈 Contribution Graph
-[![Tanvi's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Tanvi-diwakar&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+![Tanvi's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tanvi-diwakar&theme=react-dark&hide_border=true&area=true)
 
 ### 👀 Profile Views
-![](https://komarev.com/ghpvc/?username=Tanvi-diwakar&color=blueviolet&style=flat-square)
+![Profile Views](https://komarev.com/ghpvc/?username=Tanvi-diwakar&color=blueviolet&style=flat-square)
 
 **Thanks for visiting! Let's build something amazing together!** ✨
 
