@@ -1,83 +1,159 @@
-## 👋 Hi, I'm Tanvi Diwakar
+<!-- Header Section -->
+<div align="center">
 
-Machine Learning Trainer | Full-Stack Developer | Hackathon Finalist  
-Building AI solutions with real-world impact.
+# 👋 Hello, I'm Tanvi Diwakar
 
-📫 [tanvidiwakar04@gmail.com](mailto:tanvidiwakar04@gmail.com)  
-🔗 [LinkedIn](https://linkedin.com/in/tanvi-diwakar-5b41a52a3)
+### **Machine Learning Trainer | Full-Stack Developer | Hackathon Specialist**
+Building **AI solutions** with **real-world impact** 🌟
+
+[![Email](https://img.shields.io/badge/📫_Contact_Me-tanvidiwakar04@gmail.com-8B4513?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanvidiwakar04@gmail.com)
+[![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanvi-diwakar-5b41a52a3)
+
+</div>
+
+---
+
+## 🚀 About Me
+
+<div align="center">
+
+*"Code with purpose. Build with impact."* - My developer motto
+
+</div>
+
+I'm passionate about creating **technology solutions** that make a difference. With experience across **9+ hackathons** and expertise in both **machine learning** and **full-stack development**, I bridge the gap between complex AI algorithms and user-friendly applications.
+
+### 🎯 Current Focus
+- 🎤 **EchoSense**: Voice-based assistant for the visually impaired (offline + multimodal)
+- 💼 **Nishthaa**: Real-time job platform for blue-collar workers using AI recommendations
+- 🌐 Exploring multilingual LLM tuning and scalable backend infrastructure
 
 ---
 
-🔭 **Current Projects:**  
-- **EchoSense**: Voice-based assistant for the visually impaired (offline + multimodal)  
-- **Nishthaa**: Real-time job platform for blue-collar workers using AI recommendations
+## 🛠️ Tech Stack & Tools
 
-🌱 **Learning:**  
-- Multilingual LLM tuning  
-- Headless CMS & scalable backend infra
+### 🤖 Machine Learning & AI
+<div align="center">
+  
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
+![PyTorch](https://img.shields.io/badge/PyTorch-EE4C2C?style=for-the-badge&logo=pytorch&logoColor=white)
+![Scikit-Learn](https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
+![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
 
-🤝 **Let’s Collaborate On:**  
-- Social-impact ML apps  
-- Hackathons and AI-driven platforms
+![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
+![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
+![Matplotlib](https://img.shields.io/badge/Matplotlib-11557C?style=for-the-badge&logo=python&logoColor=white)
 
-💬 **Ask me about:**  
-ML workflows, full-stack dev, LLMs, and pitching strategies
+</div>
 
-⚡ **Fun fact:**  
-I’ve pitched and built winning prototypes across 9+ hackathons.
+### 💻 Development
+<div align="center">
 
-## 🌐 Socials
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 
-[![Discord](https://img.shields.io/badge/Discord-4E5166?logo=discord&logoColor=white)](https://discord.gg/tanvidiwakar.)
-[![Instagram](https://img.shields.io/badge/Instagram-8B3A62?logo=Instagram&logoColor=white)](https://instagram.com/biblio_tanvi)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-365674?logo=linkedin&logoColor=white)](https://linkedin.com/in/tanvi-diwakar-5b41a52a3)
-[![Pinterest](https://img.shields.io/badge/Pinterest-733D47?logo=Pinterest&logoColor=white)](https://pinterest.com/tanvidiwakar04)
-[![YouTube](https://img.shields.io/badge/YouTube-722F37?logo=YouTube&logoColor=white)](https://youtube.com/@@Focusflow-7373)
-[![Email](https://img.shields.io/badge/Email-56403D?logo=gmail&logoColor=white)](mailto:tanvidiwakar04@gmail.com)
+</div>
 
-<h3 align="center">Tech Stack</h3>
+### ☁️ Cloud & Deployment
+<div align="center">
 
-<p align="center">
-  <img src="https://img.shields.io/badge/Python-3B2F2F?style=for-the-badge&logo=python&logoColor=white"/>
-  <img src="https://img.shields.io/badge/HTML5-3B2F2F?style=for-the-badge&logo=html5&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Java-3B2F2F?style=for-the-badge&logo=openjdk&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Google_Cloud-3B2F2F?style=for-the-badge&logo=google-cloud&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Netlify-3B2F2F?style=for-the-badge&logo=netlify&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Oracle-3B2F2F?style=for-the-badge&logo=oracle&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Canva-3B2F2F?style=for-the-badge&logo=canva&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Adobe-3B2F2F?style=for-the-badge&logo=adobe&logoColor=white"/>
-  <img src="https://img.shields.io/badge/NumPy-3B2F2F?style=for-the-badge&logo=numpy&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Pandas-3B2F2F?style=for-the-badge&logo=pandas&logoColor=white"/>
-  <img src="https://img.shields.io/badge/PyTorch-3B2F2F?style=for-the-badge&logo=pytorch&logoColor=white"/>
-  <img src="https://img.shields.io/badge/scikit--learn-3B2F2F?style=for-the-badge&logo=scikit-learn&logoColor=white"/>
-  <img src="https://img.shields.io/badge/TensorFlow-3B2F2F?style=for-the-badge&logo=tensorflow&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Matplotlib-3B2F2F?style=for-the-badge&logo=matplotlib&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Keras-3B2F2F?style=for-the-badge&logo=keras&logoColor=white"/>
-  <img src="https://img.shields.io/badge/GitHub-3B2F2F?style=for-the-badge&logo=github&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Git-3B2F2F?style=for-the-badge&logo=git&logoColor=white"/>
-  <img src="https://img.shields.io/badge/Trello-3B2F2F?style=for-the-badge&logo=trello&logoColor=white"/>
-</p>
+![Google Cloud](https://img.shields.io/badge/Google_Cloud-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white)
+![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white)
+![Netlify](https://img.shields.io/badge/Netlify-00C7B7?style=for-the-badge&logo=netlify&logoColor=white)
 
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=Tanvi-diwakar&theme=dark&hide_border=false&include_all_commits=true&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=Tanvi-diwakar&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanvi-diwakar&theme=dark&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+</div>
 
-## 🏆 GitHub Trophies
-![](https://github-profile-trophy.vercel.app/?username=Tanvi-diwakar&theme=radical&no-frame=false&no-bg=true&margin-w=4)
+### 🎨 Design & Productivity
+<div align="center">
 
-### ✨ Quote That Keeps Me Going
+![Canva](https://img.shields.io/badge/Canva-00C4CC?style=for-the-badge&logo=canva&logoColor=white)
+![Adobe](https://img.shields.io/badge/Adobe-FF0000?style=for-the-badge&logo=adobe&logoColor=white)
+![Trello](https://img.shields.io/badge/Trello-0052CC?style=for-the-badge&logo=trello&logoColor=white)
 
-![Dev Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
-
-> _"Code with purpose. Build with impact."_  
-> — My motto as a developer, problem solver, and storyteller.
-
-
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=Tanvi-diwakar&limit=5&theme=dark&combine_all_yearly_contributions=true)
+</div>
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Tanvi-diwakar&icon=0&color=0)](https://visitcount.itsvg.in)
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+## 📊 GitHub Analytics
+
+<div align="center">
+
+<!-- GitHub Stats Cards -->
+<a href="https://github.com/Tanvi-diwakar">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tanvi-diwakar&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="Tanvi's GitHub Stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanvi-diwakar&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
+</a>
+
+<!-- GitHub Streak Stats -->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=Tanvi-diwakar&theme=radical&hide_border=true)](https://git.io/streak-stats)
+
+<!-- GitHub Trophy -->
+[![trophy](https://github-profile-trophy.vercel.app/?username=Tanvi-diwakar&theme=radical&no-frame=true&no-bg=true&margin-w=15&row=2&column=4)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🌟 Collaboration & Interests
+
+### 🤝 Let's Collaborate On
+- 🎯 **Social-impact ML applications**
+- 🏆 **Hackathons and competitive coding**
+- 🤖 **AI-driven platforms and solutions**
+- 💡 **Innovative tech for accessibility**
+
+### 💬 Ask Me About
+- 📊 **ML workflows and model deployment**
+- 🌐 **Full-stack development strategies**
+- 🧠 **LLMs and their practical applications**
+- 🎙️ **Pitching strategies and tech presentations**
+
+### 🌱 Currently Learning
+- 🈷️ **Multilingual LLM fine-tuning**
+- 🏗️ **Headless CMS & scalable backend infrastructure**
+- ⚡ **Performance optimization techniques**
+
+---
+
+## 📫 Connect With Me
+
+<div align="center">
+
+[![Discord](https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white)](https://discord.gg/tanvidiwakar.)
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://instagram.com/biblio_tanvi)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanvi-diwakar-5b41a52a3)
+[![Pinterest](https://img.shields.io/badge/Pinterest-BD081C?style=for-the-badge&logo=pinterest&logoColor=white)](https://pinterest.com/tanvidiwakar04)
+[![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white)](https://youtube.com/@@Focusflow-7373)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanvidiwakar04@gmail.com)
+
+</div>
+
+---
+
+## ⚡ Fun Facts & Highlights
+
+<div align="center">
+
+> 🏆 **Hackathon Champion**: Pitched and built winning prototypes across 9+ hackathons  
+> 🌟 **Tech Storyteller**: Believe in making complex tech accessible to everyone  
+> 📚 **Continuous Learner**: Always exploring new technologies and methodologies  
+> 💫 **Impact-Driven**: Focused on solutions that create real-world value
+
+</div>
+
+---
+
+<div align="center">
+
+### 📈 Contribution Graph
+[![Tanvi's GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=Tanvi-diwakar&theme=react-dark&hide_border=true&area=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
+
+### 👀 Profile Views
+![](https://komarev.com/ghpvc/?username=Tanvi-diwakar&color=blueviolet&style=flat-square)
+
+**Thanks for visiting! Let's build something amazing together!** ✨
+
+</div>
