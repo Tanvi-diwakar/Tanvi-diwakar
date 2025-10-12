@@ -1,10 +1,10 @@
 <!-- Header Section -->
 <div align="center">
 
-# 👋 Hello, I'm Tanvi Diwakar
+#  Hello, I'm Tanvi Diwakar
 
 ### **Machine Learning Trainer | Frontend Developer | Hackathon and Startup Experienced**
-Building **AI solutions** with **real-world impact** 🌟
+Building **AI solutions** with **real-world impact** 
 
 [![Email](https://img.shields.io/badge/📫_Contact_Me-tanvidiwakar04@gmail.com-8B4513?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanvidiwakar04@gmail.com)
 [![LinkedIn](https://img.shields.io/badge/🔗_LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/tanvi-diwakar-5b41a52a3)
@@ -13,7 +13,7 @@ Building **AI solutions** with **real-world impact** 🌟
 
 ---
 
-## 🚀 About Me
+##  About Me
 
 <div align="center">
 
@@ -22,11 +22,6 @@ Building **AI solutions** with **real-world impact** 🌟
 </div>
 
 I'm passionate about creating **technology solutions** that make a difference. With experience across **9+ hackathons** and expertise in both **machine learning** and **full-stack development**, I bridge the gap between complex AI algorithms and user-friendly applications.
-
-### 🎯 Current Focus
-- 🎤 **EchoSense**: Voice-based assistant for the visually impaired (offline + multimodal)
-- 💼 **Nishthaa**: Real-time job platform for blue-collar workers using AI recommendations
-- 🌐 Exploring multilingual LLM tuning and scalable backend infrastructure
 
 ---
 
