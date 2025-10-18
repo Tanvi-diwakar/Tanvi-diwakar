@@ -114,7 +114,6 @@ I'm a passionate **AI Engineer** and **Full-Stack Developer** with a proven trac
 </div>
 
 ---
-
 ## 🚀 Featured Projects
 
 <div align="center">
