@@ -2,7 +2,7 @@
 <div align="center">
 
 #  👋 Hello, I'm Tanvi Diwakar! 
-### **AI Engineer • Full-Stack Developer • Hackathon Champion** 
+### **AI Engineer • ML Engineer • Hackathon Champion** 
 *Crafting Intelligent Solutions that Bridge AI Innovation with Real-World Impact* 🤖✨
 
 [![Email](https://img.shields.io/badge/💌_Let's_Collaborate!-tanvidiwakar04@gmail.com-FF6B6B?style=for-the-badge&logo=gmail&logoColor=white)](mailto:tanvidiwakar04@gmail.com)
