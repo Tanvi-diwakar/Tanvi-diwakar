@@ -87,25 +87,13 @@ I'm a passionate **AI Engineer** and **Full-Stack Developer** with a proven trac
 ## 📊 GitHub Analytics
 
 <div align="center">
+  
+![Stars](https://img.shields.io/github/stars/Tanvi-diwakar?style=for-the-badge)
+![Followers](https://img.shields.io/github/followers/Tanvi-diwakar?style=for-the-badge)
+![Repos](https://img.shields.io/badge/Public_Repos-✔-brightgreen?style=for-the-badge)
 
-<!-- GitHub Stats with Custom Icons -->
-<table align="center">
-  <tr>
-    <td align="center">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Tanvi-diwakar&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=true" alt="GitHub Stats"/>
-    </td>
-    <td align="center">
-      <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Tanvi-diwakar&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages"/>
-    </td>
-  </tr>
-</table>
 
-<br/>
 
-<!-- GitHub Streak with Custom Style -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=Tanvi-diwakar&theme=radical&hide_border=true&date_format=M%20j%5B%2C%20Y%5D)](https://git.io/streak-stats)
-
-<br/>
 
 <!-- Activity Graph -->
 ### 📈 Contribution Heatmap
