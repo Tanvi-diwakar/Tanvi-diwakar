@@ -84,15 +84,12 @@ I'm a passionate **AI Engineer** and **Full-Stack Developer** with a proven trac
 
 ---
 
-## 📊 GitHub Analytics
 
-<div align="center">
-  
-![Stars](https://img.shields.io/github/stars/Tanvi-diwakar?style=for-the-badge)
-![Followers](https://img.shields.io/github/followers/Tanvi-diwakar?style=for-the-badge)
-![Repos](https://img.shields.io/badge/Public_Repos-✔-brightgreen?style=for-the-badge)
+## My GitHub Stats
 
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tanvi-diwakar&show_icons=true&theme=github_dark)
 
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanvi-diwakar&layout=compact&theme=github_dark)
 
 
 <!-- Activity Graph -->
