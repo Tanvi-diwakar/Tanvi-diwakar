@@ -92,11 +92,6 @@ I'm a passionate **AI Engineer** and **Full-Stack Developer** with a proven trac
 ![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanvi-diwakar&layout=compact&theme=github_dark)
 
 
-<!-- Activity Graph -->
-### 📈 Contribution Heatmap
-![Tanvi's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tanvi-diwakar&theme=react-dark&hide_border=true&area=true&custom_title=My%20Coding%20Journey)
-
-</div>
 
 ---
 ## 🚀 Featured Projects
