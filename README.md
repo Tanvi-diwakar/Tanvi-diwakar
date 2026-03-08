@@ -51,6 +51,17 @@ I'm a passionate **AI Engineer** and **Full-Stack Developer** with a proven trac
 
 </div>
 
+### Productivity
+![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=Tanvi-diwakar)
+
+
+<!-- Activity Graph -->
+### 📈 Contribution Heatmap
+![Tanvi's GitHub Activity Graph](https://github-readme-activity-graph.vercel.app/graph?username=Tanvi-diwakar&theme=react-dark&hide_border=true&area=true&custom_title=My%20Coding%20Journey)
+
+</div>
+
+
 ### 💻 Development Stack
 <div align="center">
 
