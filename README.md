@@ -85,13 +85,6 @@ I'm a passionate **AI Engineer** and **Full-Stack Developer** with a proven trac
 ---
 
 
-## My GitHub Stats
-
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=Tanvi-diwakar&show_icons=true&theme=github_dark)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Tanvi-diwakar&layout=compact&theme=github_dark)
-
-
 
 ---
 ## 🚀 Featured Projects
@@ -107,8 +100,3 @@ I'm a passionate **AI Engineer** and **Full-Stack Developer** with a proven trac
 
 <br/>
 
-### 🌟 Recent Work
-```bash
-✨ Building: Advanced LLM Fine-tuning Platform
-🚀 Deploying: Scalable ML Model APIs  
-🔬 Researching: Multimodal AI Applications
