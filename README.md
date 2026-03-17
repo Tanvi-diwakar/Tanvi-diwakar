@@ -91,9 +91,9 @@ I enjoy building projects that apply machine learning techniques to real-world p
 
 ---
 
-### Productivity
+### Productivity & 📈 Contribution Heatmap
 
-![Github Stats](https://github-readme-streak-stats.herokuapp.com/?user=Tanvi-diwakar)
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Tanvi-diwakar&theme=tokyonight&hide_border=true" height="165"/>
 
 ---
 
